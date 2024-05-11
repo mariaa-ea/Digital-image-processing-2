@@ -7,3 +7,7 @@
 2. **[Классификация нейронных сетей в PyTorch](https://github.com/mariaa-ea/Digital-image-processing-2/blob/main/02_pytorch_classification_exercises.ipynb)**
 3. **[Компьютерное зрение в PyTorch](https://github.com/mariaa-ea/Digital-image-processing-2/blob/main/03_pytorch_computer_vision_exercises.ipynb)**
 4. ...
+
+</br>  
+
+_by mariaa_ea_
